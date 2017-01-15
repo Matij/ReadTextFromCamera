@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="143308466660540"
+    token="5944932098730995499"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="72" />
+    <task
+        name="instant-run-dex"
+        duration="362" />
+    <task
+        name="instant-run-transform"
+        duration="5" />
+    <task
+        name="verifier"
+        duration="1" />
+
+    <artifact
+        location="/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="143051528006602"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="143148919228590"
+        verifier="FIELD_ADDED" >
+        <artifact
+            location="/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="143214111171932"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/builds/debug/143214111171932/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="143308466660540"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,7 @@
+#Sat Jan 14 23:02:22 GMT 2017
+base.0=/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e80f29a3f098de2eb724eef180292f3b12996eb
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_80eff9a9d4d3464abb62e612dc2142685585f08b/classes.dex
+base.1=/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_80eff9a9d4d3464abb62e612dc2142685585f08b
+file.0=/Users/martafoderaro/Documents/OtherProjects/android-vision-master/visionSamples/ocr-codelab/ocr-reader-start/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1e80f29a3f098de2eb724eef180292f3b12996eb/classes.dex
